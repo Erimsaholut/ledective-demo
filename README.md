@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="Status: in development">
   <img src="https://img.shields.io/badge/version-0.5.0--alpha-red?style=flat-square" alt="Version 0.5.0-alpha">
-  <img src="https://img.shields.io/badge/language-Turkish-lightgrey?style=flat-square" alt="Language: Turkish">
+  <img src="https://img.shields.io/badge/language-Turkish%20(English%20coming)-lightgrey?style=flat-square" alt="Language: Turkish, English coming">
 </p>
 
 # Ledective
@@ -36,8 +36,9 @@ the board and decide who to trust. Every answer you choose is remembered.
 > versions. Feedback is very welcome (see [below](#feedback)).
 
 > [!NOTE]
-> **The game is in Turkish.** All story text, chats and documents are
-> Turkish for now. An English version is not planned for the demo.
+> **The game is in Turkish for now.** All story text, chats and documents
+> in this demo are Turkish. **English and more languages are coming in
+> later versions.**
 
 ## Download and play
 
@@ -114,24 +115,29 @@ the in-game **AppShop** and take a break:
 
 <table>
   <tr>
-    <td width="50%"><img src="screenshots/11-pitch-king.png" alt="Saha Kralı, the football manager"></td>
-    <td width="50%"><img src="screenshots/12-track-monster.png" alt="Pist Canavarı, the racing game"></td>
+    <td width="25%"><img src="screenshots/11-pitch-king.png" alt="Saha Kralı, the football manager"></td>
+    <td width="25%"><img src="screenshots/12-track-monster.png" alt="Pist Canavarı, the racing game"></td>
+    <td width="25%"><img src="screenshots/13-castle-guard.png" alt="Kale Muhafızı, the tower defence game"></td>
+    <td width="25%"><img src="screenshots/14-farm.png" alt="Bereket Çiftliği, the farming game"></td>
   </tr>
   <tr>
-    <td><b>Saha Kralı</b>: take a small-town club from the fourth tier to the top of Europe. Transfers and loans with real haggling, staff, tactics, a board that loses patience, and some offers you should probably refuse.</td>
-    <td><b>Pist Canavarı</b>: top-down street racing with drifting, nitro, a garage and rivals across several cups.</td>
+    <td><b>Saha Kralı</b><br>Football manager. Take a small-town club from the fourth tier to the top of Europe: transfers and loans with real haggling, staff, tactics, a board that loses patience, and some offers you should probably refuse.</td>
+    <td><b>Pist Canavarı</b><br>Racing. Top-down street races with drifting, nitro, a garage and rivals across several cups.</td>
+    <td><b>Kale Muhafızı</b><br>Tower defence. Build archer, cannon and ice towers along the road and hold your castle against goblins, giants and dragons, then try the endless mode.</td>
+    <td><b>Bereket Çiftliği</b><br>Farming. Plant and harvest, raise chickens, cows, sheep and bees, fill your neighbours' orders and climb the village league. Crops keep growing while the game is closed.</td>
   </tr>
 </table>
 
-Also on the phone: Solitaire, Sudoku, nonograms and other puzzles, a piano,
-a music player, a calculator, a camera, notes and a calendar.
+**...and more:** Solitaire, Sudoku, nonograms and other puzzles, a piano,
+a music player, a calculator, a camera, notes, a calendar, and new games
+on the way.
 
 ## What's in this demo
 
 - The case from the first message to the demo's ending.
 - The core apps: chats, documents and the lab, map missions, the evidence
   board, news, social media, the bank, mail and voicemail.
-- The side games above.
+- The side games above, and more.
 
 Still in progress: some chapters are drafts, some images are placeholders,
 and parts of the story will change.
